@@ -2,6 +2,65 @@
   "img": "https://pub-a48d8c13dfc04e279c04bfea668e5b09.r2.dev",
   "movies": [
     {
+      "id": 1199193,
+      "mt": "m",
+      "t": "Sesión fatal",
+      "y": 2026,
+      "p": "posters/1199193-w342.webp",
+      "b": "backdrops/1199193-w1280.webp",
+      "l": "logos/1199193-w500.webp",
+      "g": [
+        20
+      ],
+      "im": "tt29713815",
+      "r": 6.4,
+      "rt": 77,
+      "d": "Dos parejas llegan a una mansión rural que reservaron juntas sin saberlo, y descubren extraños sucesos durante su estancia.",
+      "u": "https://rumble.com/embed/v75fhq4/?pub=4oht9e",
+      "sub": [
+        "subtitles/1199193-es.srt"
+      ]
+    },
+    {
+      "id": 991494,
+      "mt": "m",
+      "t": "Bob Esponja: En busca de los pantalones cuadrados",
+      "y": 2025,
+      "p": "posters/991494-w342.webp",
+      "b": "backdrops/991494-w1280.webp",
+      "l": "logos/991494-w500.webp",
+      "g": [
+        3,
+        10,
+        6,
+        2,
+        11
+      ],
+      "im": "tt23572848",
+      "r": 6.8,
+      "rt": 88,
+      "d": "Desesperado por ser un gran tipo, Bob Esponja se propone demostrar su valentía al Sr. Krabs siguiendo a The Flying Dutchman, un misterioso pirata fantasma, en una aventura marítima que lo lleva a las profundidades más profundas del mar profundo, donde ninguna Esponja ha ido antes.",
+      "u": "https://rumble.com/embed/v75f6e4/?pub=4oht9e"
+    },
+    {
+      "id": 1208348,
+      "mt": "m",
+      "t": "Familia en renta",
+      "y": 2025,
+      "p": "posters/1208348-w342.webp",
+      "b": "backdrops/1208348-w1280.webp",
+      "l": "logos/1208348-w500.webp",
+      "g": [
+        9,
+        6
+      ],
+      "im": "tt14142060",
+      "r": 7.8,
+      "rt": 110,
+      "d": "Ambientada en el Tokio actual, sigue a un actor estadounidense que lucha por encontrar un propósito en la vida hasta que consigue un trabajo inusual: trabajar para una agencia japonesa de \"familias de alquiler\", interpretando papeles de suplente para desconocidos. A medida que se sumerge en el mundo de sus clientes, comienza a establecer vínculos genuinos que difuminan las líneas entre la actuación y la realidad. Al enfrentarse a las complejidades morales de su trabajo, redescubre el propósito, la pertenencia y la tranquila belleza de las relaciones humanas.",
+      "u": "https://rumble.com/embed/v75f8ta/?pub=4oht9e"
+    },
+    {
       "id": 1254624,
       "mt": "m",
       "t": "La noche siempre llega",
@@ -101,7 +160,7 @@
       "r": 7,
       "rt": 113,
       "d": "Después de que un accidente de avión deje varados en una isla remota a una competente empleada y a su insoportable jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v75fhvm/?pub=4oht9e"
     },
     {
       "id": 467905,
@@ -296,7 +355,7 @@
       "r": 7.3,
       "rt": 106,
       "d": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v75fi54/?pub=4oht9e"
     },
     {
       "id": 911430,
@@ -377,7 +436,7 @@
       "r": 7.5,
       "rt": 100,
       "d": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v75fj4y/?pub=4oht9e"
     },
     {
       "id": 1367642,
@@ -526,7 +585,7 @@
       "r": 6.4,
       "rt": 98,
       "d": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e",
+      "u": "https://rumble.com/embed/v75fja6/?pub=4oht9e",
       "sub": [
         "subtitles/840464-es.srt"
       ]
@@ -657,6 +716,112 @@
     }
   ],
   "series": [
+    {
+      "id": 225891,
+      "mt": "s",
+      "t": "The Madison",
+      "y": 2026,
+      "p": "posters/225891-w342.webp",
+      "b": "backdrops/225891-w1280.webp",
+      "l": "logos/225891-w500.webp",
+      "g": [
+        9
+      ],
+      "im": "tt33204276",
+      "r": 8.7,
+      "d": "Tras una tragedia, una adinerada familia neoyorquina se traslada al idílico estado de Montana rural, explorando la conexión humana en medio de un profundo dolor.",
+      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e",
+      "se": [
+        {
+          "sn": 1,
+          "ep": [
+            {
+              "en": 1,
+              "t": "Piloto",
+              "rt": 69,
+              "th": "thumbnails/225891-s1e1-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 2,
+              "t": "Dejen que la tierra me guarde",
+              "rt": 50,
+              "th": "thumbnails/225891-s1e2-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 3,
+              "t": "Mírenla caer",
+              "rt": 47,
+              "th": "thumbnails/225891-s1e3-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 4,
+              "t": "Mañana es el adiós",
+              "rt": 62,
+              "th": "thumbnails/225891-s1e4-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 5,
+              "t": "Sin un nombre y con un nuevo sueño",
+              "rt": 54,
+              "th": "thumbnails/225891-s1e5-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 6,
+              "t": "Me doy permiso",
+              "rt": 49,
+              "th": "thumbnails/225891-s1e6-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "ep": [
+            {
+              "en": 1,
+              "t": "Episodio 1",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 2,
+              "t": "Episodio 2",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 3,
+              "t": "Episodio 3",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 4,
+              "t": "Episodio 4",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 5,
+              "t": "Episodio 5",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 6,
+              "t": "Episodio 6",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            }
+          ]
+        }
+      ],
+      "ts": 2,
+      "te": 12,
+      "vs": [
+        1,
+        2
+      ]
+    },
     {
       "id": 87108,
       "mt": "s",
