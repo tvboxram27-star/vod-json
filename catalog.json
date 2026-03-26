@@ -40,7 +40,10 @@
       "r": 6.8,
       "rt": 88,
       "d": "Desesperado por ser un gran tipo, Bob Esponja se propone demostrar su valentía al Sr. Krabs siguiendo a The Flying Dutchman, un misterioso pirata fantasma, en una aventura marítima que lo lleva a las profundidades más profundas del mar profundo, donde ninguna Esponja ha ido antes.",
-      "u": "https://rumble.com/embed/v75f6e4/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v75f6e4/?pub=4oht9e",
+      "sub": [
+        "subtitles/991494-es.srt"
+      ]
     },
     {
       "id": 1208348,
@@ -58,7 +61,10 @@
       "r": 7.8,
       "rt": 110,
       "d": "Ambientada en el Tokio actual, sigue a un actor estadounidense que lucha por encontrar un propósito en la vida hasta que consigue un trabajo inusual: trabajar para una agencia japonesa de \"familias de alquiler\", interpretando papeles de suplente para desconocidos. A medida que se sumerge en el mundo de sus clientes, comienza a establecer vínculos genuinos que difuminan las líneas entre la actuación y la realidad. Al enfrentarse a las complejidades morales de su trabajo, redescubre el propósito, la pertenencia y la tranquila belleza de las relaciones humanas.",
-      "u": "https://rumble.com/embed/v75f8ta/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v75f8ta/?pub=4oht9e",
+      "sub": [
+        "subtitles/1208348-es.srt"
+      ]
     },
     {
       "id": 1254624,
@@ -77,7 +83,10 @@
       "r": 6,
       "rt": 108,
       "d": "Arriesgándolo todo para asegurarse un futuro para ella y su hermano, Lynette emprende una peligrosa odisea, enfrentándose a su oscuro pasado.",
-      "u": "https://rumble.com/embed/v72niig/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v72niig/?pub=4oht9e",
+      "sub": [
+        "subtitles/1254624-es.srt"
+      ]
     },
     {
       "id": 35,
@@ -314,7 +323,10 @@
       "r": 6.9,
       "rt": 94,
       "d": "Un hombre solitario llega a un pequeño pueblo y descubre que sus habitantes viven bajo el control de un líder cruel, así que decide intervenir para intentar liberarlos.",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e",
+      "sub": [
+        "subtitles/1088434-es.srt"
+      ]
     },
     {
       "id": 1236153,
@@ -355,7 +367,10 @@
       "r": 7.3,
       "rt": 106,
       "d": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
-      "u": "https://rumble.com/embed/v75fi54/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v75fi54/?pub=4oht9e",
+      "sub": [
+        "subtitles/1265609-es.srt"
+      ]
     },
     {
       "id": 911430,
@@ -492,7 +507,10 @@
       "r": 5.9,
       "rt": 114,
       "d": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e",
+      "sub": [
+        "subtitles/1159559-es.srt"
+      ]
     },
     {
       "id": 1419406,
@@ -716,6 +734,154 @@
     }
   ],
   "series": [
+    {
+      "id": 106379,
+      "mt": "s",
+      "t": "Fallout",
+      "y": 2024,
+      "p": "posters/106379-w342.webp",
+      "b": "backdrops/106379-w1280.webp",
+      "l": "logos/106379-w500.webp",
+      "g": [
+        1,
+        2,
+        19
+      ],
+      "im": "tt12637874",
+      "r": 8.1,
+      "d": "Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.",
+      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e",
+      "se": [
+        {
+          "sn": 1,
+          "ep": [
+            {
+              "en": 1,
+              "t": "El fin",
+              "rt": 75,
+              "th": "thumbnails/106379-s1e1-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 2,
+              "t": "El objetivo",
+              "rt": 66,
+              "th": "thumbnails/106379-s1e2-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 3,
+              "t": "La cabeza",
+              "rt": 57,
+              "th": "thumbnails/106379-s1e3-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 4,
+              "t": "Los necrófagos",
+              "rt": 49,
+              "th": "thumbnails/106379-s1e4-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 5,
+              "t": "El pasado",
+              "rt": 46,
+              "th": "thumbnails/106379-s1e5-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 6,
+              "t": "La trampa",
+              "rt": 61,
+              "th": "thumbnails/106379-s1e6-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 7,
+              "t": "La radio",
+              "rt": 62,
+              "th": "thumbnails/106379-s1e7-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 8,
+              "t": "El comienzo",
+              "rt": 63,
+              "th": "thumbnails/106379-s1e8-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "ep": [
+            {
+              "en": 1,
+              "t": "El innovador",
+              "rt": 63,
+              "th": "thumbnails/106379-s2e1-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 2,
+              "t": "La regla de oro",
+              "rt": 59,
+              "th": "thumbnails/106379-s2e2-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 3,
+              "t": "La crápula",
+              "rt": 55,
+              "th": "thumbnails/106379-s2e3-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 4,
+              "t": "El demonio de la nieve",
+              "rt": 49,
+              "th": "thumbnails/106379-s2e4-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 5,
+              "t": "El Wrangler",
+              "rt": 57,
+              "th": "thumbnails/106379-s2e5-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 6,
+              "t": "El otro jugador",
+              "rt": 52,
+              "th": "thumbnails/106379-s2e6-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 7,
+              "t": "La entrega",
+              "rt": 51,
+              "th": "thumbnails/106379-s2e7-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            },
+            {
+              "en": 8,
+              "t": "El Strip",
+              "rt": 57,
+              "th": "thumbnails/106379-s2e8-w500.webp",
+              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
+            }
+          ]
+        }
+      ],
+      "ts": 2,
+      "te": 16,
+      "vs": [
+        1,
+        2
+      ]
+    },
     {
       "id": 225891,
       "mt": "s",
@@ -1280,154 +1446,6 @@
         2,
         3,
         4
-      ]
-    },
-    {
-      "id": 106379,
-      "mt": "s",
-      "t": "Fallout",
-      "y": 2024,
-      "p": "posters/106379-w342.webp",
-      "b": "backdrops/106379-w1280.webp",
-      "l": "logos/106379-w500.webp",
-      "g": [
-        1,
-        2,
-        19
-      ],
-      "im": "tt12637874",
-      "r": 8.1,
-      "d": "Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.",
-      "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e",
-      "se": [
-        {
-          "sn": 1,
-          "ep": [
-            {
-              "en": 1,
-              "t": "El fin",
-              "rt": 75,
-              "th": "thumbnails/106379-s1e1-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 2,
-              "t": "El objetivo",
-              "rt": 66,
-              "th": "thumbnails/106379-s1e2-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 3,
-              "t": "La cabeza",
-              "rt": 57,
-              "th": "thumbnails/106379-s1e3-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 4,
-              "t": "Los necrófagos",
-              "rt": 49,
-              "th": "thumbnails/106379-s1e4-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 5,
-              "t": "El pasado",
-              "rt": 46,
-              "th": "thumbnails/106379-s1e5-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 6,
-              "t": "La trampa",
-              "rt": 61,
-              "th": "thumbnails/106379-s1e6-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 7,
-              "t": "La radio",
-              "rt": 62,
-              "th": "thumbnails/106379-s1e7-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 8,
-              "t": "El comienzo",
-              "rt": 63,
-              "th": "thumbnails/106379-s1e8-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            }
-          ]
-        },
-        {
-          "sn": 2,
-          "ep": [
-            {
-              "en": 1,
-              "t": "El innovador",
-              "rt": 63,
-              "th": "thumbnails/106379-s2e1-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 2,
-              "t": "La regla de oro",
-              "rt": 59,
-              "th": "thumbnails/106379-s2e2-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 3,
-              "t": "La crápula",
-              "rt": 55,
-              "th": "thumbnails/106379-s2e3-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 4,
-              "t": "El demonio de la nieve",
-              "rt": 49,
-              "th": "thumbnails/106379-s2e4-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 5,
-              "t": "El Wrangler",
-              "rt": 57,
-              "th": "thumbnails/106379-s2e5-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 6,
-              "t": "El otro jugador",
-              "rt": 52,
-              "th": "thumbnails/106379-s2e6-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 7,
-              "t": "La entrega",
-              "rt": 51,
-              "th": "thumbnails/106379-s2e7-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            },
-            {
-              "en": 8,
-              "t": "El Strip",
-              "rt": 57,
-              "th": "thumbnails/106379-s2e8-w500.webp",
-              "u": "https://rumble.com/embed/v72ngr6/?pub=4oht9e"
-            }
-          ]
-        }
-      ],
-      "ts": 2,
-      "te": 16,
-      "vs": [
-        1,
-        2
       ]
     },
     {
